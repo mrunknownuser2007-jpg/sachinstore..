@@ -1,2 +1,0 @@
-# sachinstore..
-shopping website
